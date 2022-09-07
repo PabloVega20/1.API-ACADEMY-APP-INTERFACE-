@@ -1,0 +1,33 @@
+[
+    {
+        "id": "1",
+        "alias": "@pablovega",
+        "name": "Pablo Vega",
+        "accounts": [
+            "2980137782361"
+        ],
+        "promos": [
+            "1","2"
+        ]
+    },
+    {
+        "id": "2",
+        "alias": "@jantonlucci",
+        "name": "Javier Antolucci",
+        "accounts": [
+            "2980137782362"
+        ],
+        "promos":[
+            "2"
+        ]
+    },
+    {
+        "id": "3",
+        "alias": "@guillepaton",
+        "name": "Guillermo Patón",
+        "accounts": [
+            "2980137782363"
+        ],
+        "promos": []
+    }    
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "iban": "2980137782361",
+        "balance": 854.52,
+        "lastTransactions": [
+            {
+                "category": "1",
+                "description": "The Old Town Pharmacy",
+                "amount": 41.72,
+                "date": "07/09/2022"
+            }
+        ]
+    },
+    {
+        "iban":"2980137782362",
+        "balance": 84.52,
+        "lastTransactions": [
+            {
+                "category": "2",
+                "description": "Te power gas station",
+                "amount": 76.62,
+                "date": "07/09/2022"
+            }
+        ]
+    },
+    {
+        "iban": "2980137782363",
+        "balance": 2341.52,
+        "lastTransactions": [
+            {
+                "category": "1",
+                "description": "Speedy internet service",
+                "amount": 38.72,
+                "date": "07/09/2022"
+            }
+        ]
+    }
+]

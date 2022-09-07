@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "name": "Send",
+        "icon": "https//mockicon.jpg"
+    },
+    {
+        "id": "2",
+        "name": "My Saving",
+        "icon": "https//2mockicon.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Withdraw",
+        "icon": "https//3mockicon.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Rquest",
+        "icon": "https//4mockicon.jpg"
+    }
+]
