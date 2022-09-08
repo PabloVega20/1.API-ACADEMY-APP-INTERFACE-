@@ -20,6 +20,16 @@ const type: IResolvers = {
             })
             return promosList
         }
+    },
+    Account: {
+        operations: parent => {
+            const operationsList: Array<any> = []
+            parent.operations.map((operation: string)=>{
+                console.log(operation)
+                operationsList.push(_.filter(database.operations, ['id', operation])[0])
+            })
+            return operationsList
+        }
     } 
 }
 

@@ -14,6 +14,7 @@ type Account{
     iban: String!
     balance: Float!
     lastTransactions: [Transaction!]!
+    operations: [Operation!]!
 }
 
 type Promo{
@@ -27,4 +28,10 @@ type Transaction{
     description: String!
     amount: Float!
     date: String!
+}
+
+type Operation{
+    id: ID!
+    name: String!
+    icon: String!
 }
