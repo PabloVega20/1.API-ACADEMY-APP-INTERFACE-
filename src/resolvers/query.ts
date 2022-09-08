@@ -18,7 +18,10 @@ const query: IResolvers = {
       } else {
         return resultado
       }
-    }
+    },
+    customers(): any{
+      return database.customers
+    } 
   }
 };
 
